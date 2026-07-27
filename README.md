@@ -138,11 +138,12 @@ Tools and practices for securing mobile applications.
 
 Tools for tracking usage and monitoring app behavior.
 
-- [Firebase Analytics](https://firebase.google.com/products/analytics) — Analytics platform for mobile apps.
 - [Amplitude](https://amplitude.com/) — Product analytics for user behavior.
+- [AppRankly](https://github.com/zmsp/AppRankly) — Self-hosted mobile app store analytics dashboard and ASO keyword audit suite for iOS and Android.
+- [Crashlytics](https://firebase.google.com/products/crashlytics) — Crash reporting tool.
+- [Firebase Analytics](https://firebase.google.com/products/analytics) — Analytics platform for mobile apps.
 - [Mixpanel](https://mixpanel.com/) — Event-based analytics platform.
 - [Sentry](https://sentry.io/) — Error tracking and performance monitoring.
-- [Crashlytics](https://firebase.google.com/products/crashlytics) — Crash reporting tool.
 
 ## Learning & Resources
 
